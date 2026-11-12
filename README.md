@@ -4,7 +4,9 @@ Search, describe and query the uSmart datasets you have access to, in plain lang
 Copilot Chat. You sign in with your own uSmart account and see exactly what you could see on usmart.ai.
 The agent is read-only.
 
-**Download:** the latest package is in [`releases/`](releases/) (also attached to each GitHub Release).
+**Download:** `usmart-copilot-agent-v<version>.zip` from [`releases/`](releases/), or the file of the same name attached
+to the GitHub Release. Do **not** use the "Source code (zip)" that GitHub adds to every release: that is a copy of this
+repository, not the agent package, and the admin centre will reject it.
 Current version: **1.0.3**. See [CHANGELOG.md](CHANGELOG.md).
 
 Published by uSmart (UrbanTide). Source and build tooling are internal; this repository carries the
